@@ -1,0 +1,5 @@
+{
+  "name": "Wedding Studio CRM",
+  "description": "A modern, responsive CRM application for wedding studios to manage clients, bookings, staff, packages, and finances. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
